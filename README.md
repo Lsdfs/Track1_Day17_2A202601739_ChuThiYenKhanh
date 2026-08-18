@@ -4,7 +4,7 @@
 
 - **MHV:** 2A202601739
 - **Họ và tên:** Chu Thị Yến Khanh
-- **Tên nhóm:** Nhóm Case 2
+- **Tên nhóm:** ABC
 - **Thành viên:** Chu Thị Yến Khanh; Trần Tuấn Trung; Nguyễn Trọng Đức
 - **Case:** Case B – AI Notes: Personal Learning Notes
 
@@ -36,7 +36,7 @@
 **Story opener:** “Kể mình nghe về lần gần nhất bạn học một bài và có ghi chú, highlight hoặc đánh dấu nội dung để xem lại sau?”
 
 1. “Sau lần đó, bạn có quay lại xem những highlight hoặc ghi chú đó không? Kể mình nghe lần bạn quay lại gần nhất.”
-2. “Kể về lần gần nhất có phần nội dung bạn không hiểu hoặc bỏ sót khiến việc học bài mới khó khăn/không theo kịp. Khi đó bạn đã làm gì?”
+2. “Có phần nội dung nào bạn không hiểu hoặc bỏ sót khiến việc học bài mới khó khăn/không theo kịp không? Trong trường hợp đó bạn đã làm gì?”
 3. “Trong lần gần nhất bạn xem lại highlight hoặc ghi chú, có phần nào bạn không nhớ tại sao mình đã đánh dấu không? Lúc đó bạn đã làm gì tiếp theo?”
 
 **Probe:** “Lúc đó chuyện gì xảy ra tiếp theo?”, “Bạn đã làm gì?”, “Vì sao bạn chọn cách đó?”, “Phần nào khó nhất?”, “Việc đó kéo theo hậu quả gì?”
@@ -44,7 +44,7 @@
 ## 4. Practice Reflection
 
 1. Story opener về “lần gần nhất” dẫn vào bối cảnh học trên lớp, ghi chú thuật ngữ/phần chưa hiểu và ôn lại sau đó.
-2. Cần neo Big 3 số 2 vào một sự kiện quá khứ thay vì hỏi chung chung; vì vậy câu hỏi được sửa thành “Kể về lần gần nhất... Khi đó bạn đã làm gì?”.
+2. Cần neo câu hỏi Big 3 số 2 chặt hơn vào một sự kiện quá khứ, tránh câu hỏi chung chung hoặc về tương lai.
 3. Guide đã bổ sung story opener, recruitment check và probe bank; chuyển trọng tâm về hành vi, workaround và hậu quả để không pitch solution.
 
 ## 5. AI Support Log
